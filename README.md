@@ -1,4 +1,5 @@
-# Data-Extraction
+## Data-Extraction
+
 **W4Sight Generated - PRIVACY NOTICE - Do not attach any client data files!!  Procedural documentation only!
 
 MDK-1/4/19 - Initial entry
@@ -7,7 +8,7 @@ W4Sight is engaging me to extract data from an existing SF system for loading in
 
 Ideally, preserving the original create dates will be necessary.  Initial kick-off meeting will be 1/10/19 at 7AM.
 
-MDK - 1/8/19:  Destination is Little Green Light.  [Documentation for their Flex Importer](https://help.littlegreenlight.com/article/55-uploading-relationships-with-the-flex-importer)  Two ways to do it, multiple spreadsheets, or one spreadsheet with all relationships linked and defined.  Not sure how to play it until I see the data.
+MDK - 1/8/19:  Destination is Little Green Light.    Two ways to do it, multiple spreadsheets, or one spreadsheet with all relationships linked and defined.  Not sure how to play it until I see the data.
 
 Agenda for the kickoff meeting, and what I need to prepare:
 
@@ -19,3 +20,11 @@ Agenda for the kickoff meeting, and what I need to prepare:
 - [ ] But we don't want to pull junk they don't need, so can you be prepared to ask about what criteria you should use to select Accounts, Contacts, Opportunities, etc?  
 
 - [ ] Anything else you and I should discuss beforehand?
+
+
+### Resources
+
+[Little Green Light Flex Importer Documentation](https://help.littlegreenlight.com/article/51-using-the-flex-importer)
+
+[Documentation for LGL Flex Importer](https://help.littlegreenlight.com/article/55-uploading-relationships-with-the-flex-importer)
+
