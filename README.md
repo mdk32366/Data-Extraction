@@ -11,7 +11,7 @@ MDK - 1/8/19:  Destination is Little Green Light.  [Documentation for their Flex
 
 Agenda for the kickoff meeting, and what I need to prepare:
 
-- [ ] DVLC project stuff - Ashley at Domestic Violence Legal Clinic let me know that she's requested Sharepoint credentials for you, so please be on the lookout for those.
+- [ ] DVLC project stuff - Ashley at the Client let me know that she's requested Sharepoint credentials for you, so please be on the lookout for those.
 
 
 - [ ] Get any clarification needed about what records should be pulled from Salesforce so that we can recreate all the key pieces of info they are looking for (see the table in the scope document).  
