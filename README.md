@@ -21,6 +21,7 @@ Agenda for the kickoff meeting, and what I need to prepare:
 
 - [ ] Anything else you and I should discuss beforehand?
 
+MDK - 1/9/19:  Let Deb know the creds from Ashley didn't come through yet, and that I did some prelim work on report outputs.
 
 ### Resources
 
