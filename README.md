@@ -23,6 +23,20 @@ Agenda for the kickoff meeting, and what I need to prepare:
 
 MDK - 1/9/19:  Let Deb know the creds from Ashley didn't come through yet, and that I did some prelim work on report outputs.
 
+MDK - 1/10/19:  Kickoff meeting went well.  Rachel is my contact at client.  She's also exec director.  Chances are she'll want us to make it stepwise, or just do it for her.  Deb has been great.  This is their fourth or fifth port from SF to LGL.  I know have access to LGL so I can start getting some experience with the platform.
+
+Merger happens effective June 1.  Data go live April 1.  
+
+Spouse Records: Need to be handled differently.
+
+Granted Access to clients LGL and ran a dupe check - Nothing!  This is good.
+
+A couple of key notes:
+
+Affiliations and Soft Credits:  Need to gauge the extent to which they are used, and then determine IF or WHEN they'd come over.
+Opportunity Roles: Did they use them?  If so, there are implications to be ameliorated.
+
+
 ### Resources
 
 [Little Green Light Flex Importer Documentation](https://help.littlegreenlight.com/article/51-using-the-flex-importer)
